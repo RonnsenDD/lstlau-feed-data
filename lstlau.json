@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12T10:33:14.303Z",
+  "generated": "2026-10-12T11:33:10.770Z",
   "source": "Leitstelle Lausitz",
   "parserVersion": "1.2.0",
   "itemCount": 11,
@@ -16,7 +16,7 @@
       "startTime": "13:00",
       "endTime": "15:00",
       "active": true,
-      "status": "scheduled",
+      "status": "active",
       "category": "Wartung",
       "title": "Wartungsarbeiten BOS-Messenger, Cloud-Speicher & Keycloak 12.10.2026, 13 Uhr bis 15 Uhr",
       "date": "2026-10-12",
