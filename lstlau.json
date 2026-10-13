@@ -1,9 +1,34 @@
 {
-  "generated": "2026-10-13T11:32:44.661Z",
+  "generated": "2026-10-13T12:40:39.484Z",
   "source": "Leitstelle Lausitz",
   "parserVersion": "1.2.0",
-  "itemCount": 11,
+  "itemCount": 12,
   "items": [
+    {
+      "id": "newsletter-88",
+      "sourceType": "newsletter",
+      "source": "Leitstelle Lausitz Newsletter",
+      "newsletterId": 88,
+      "start": "2026-10-14T09:00:00",
+      "end": "2026-10-14T15:00:00",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
+      "startTime": "09:00",
+      "endTime": "15:00",
+      "active": true,
+      "status": "scheduled",
+      "category": "Wartung",
+      "title": "Wartungsarbeiten BB-Alarm/3PI - 14.10.2026 - 9:00 bis 15 Uhr",
+      "date": "2026-10-14",
+      "summary": "Sehr geehrte Damen und Herren, am Mittwoch, den 14. Oktober 2026, finden in der Zeit von 9:00 Uhr bis 15:00 Uhr Wartungsarbeiten innerhalb unserer BOScloud-Systeme statt. Während dieser Zeit kann es zu kurzen Unterbrechungen bei Brandenburg-Alarm (DE-Alarm App und Redaktionssystem) und bei der Datenübertragung an die Drittanbieterschnittstelle (\"3PI\", inkl. der angeschlossenen Systeme sowie dem Wachalarm) kommen. Bei Rückfragen steht Ihnen unser Support-Team gerne zur Verfügung. Wir danken für Ihr Verständnis. Mit freundlichen Grüßen Im Auftrag Geschäftsstelle des technischen Leitstellenverbunds Netzwerk112-Brandenburg",
+      "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=88",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.leitstelle-lausitz.de/"
+        }
+      ]
+    },
     {
       "id": "newsletter-86",
       "sourceType": "newsletter",
