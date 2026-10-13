@@ -1,9 +1,54 @@
 {
-  "generated": "2026-10-13T12:40:39.484Z",
+  "generated": "2026-10-13T13:38:21.127Z",
   "source": "Leitstelle Lausitz",
   "parserVersion": "1.2.0",
-  "itemCount": 12,
+  "itemCount": 13,
   "items": [
+    {
+      "id": "newsletter-87",
+      "sourceType": "newsletter",
+      "source": "Leitstelle Lausitz Newsletter",
+      "newsletterId": 87,
+      "start": null,
+      "end": null,
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
+      "startTime": null,
+      "endTime": null,
+      "active": true,
+      "status": "active",
+      "category": "Störung",
+      "title": "Netzwerk 112 - Newsletter 3/26",
+      "date": "2026-10-14",
+      "summary": "Das BOSpad bietet Einsatz- und Führungskräften ohne großen administrativen Aufwand Zugang zu praxisnahen, vernetzten Anwendungen. Feuerwehren und Katastrophenschutz können damit auch ohne eigene IT-Abteilung einsatztaktisch relevante Daten nutzen und landesweit über die eigenen Organisationsgrenzen hinaus mit anderen Einheiten und allen Leitstellen medienbruchfrei digital kommunizieren. Ergänzt wird die standardisierte Hardware durch den „Informationsraum BOS Land Brandenburg\" – eine zentrale IT-Infrastruktur mit Führungsmitteln wie CommandX, Messenger, Groupware, Cloudspeicher und BOS-GDI. Diese bundesweit bislang einmalige Lösung wurde 2026 mit dem Innovationspreis des Fachverbandes der Le",
+      "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=87",
+      "links": [
+        {
+          "text": "Newsletter der kommunalen Arbeitsgemeinschaft der Leitstellen im Land Brandenburg",
+          "url": "https://www.leitstelle-lausitz.de/"
+        },
+        {
+          "text": "",
+          "url": "https://wiki.boscloud.lvnbb.de/bospad-neue-gerate-abrufen-oder-vorhandene-ipads-umwandeln/"
+        },
+        {
+          "text": "",
+          "url": "https://wiki.boscloud.lvnbb.de/atemschutzuberwachung-digital-fms-atemschutz-bos-prognose-statt-der-klassischen-stoppuhr/"
+        },
+        {
+          "text": "",
+          "url": "https://www.leitstelle-lausitz.de/brandenburg-alarm-neue-funktionen-ab-dem-14-oktober-2026/"
+        },
+        {
+          "text": "Graphmasters",
+          "url": "https://www.graphmasters.net/de"
+        },
+        {
+          "text": "",
+          "url": "https://wiki.boscloud.lvnbb.de/commandx-update-26-6/"
+        }
+      ]
+    },
     {
       "id": "newsletter-88",
       "sourceType": "newsletter",
@@ -53,6 +98,26 @@
           "url": "https://www.leitstelle-lausitz.de/"
         }
       ]
+    },
+    {
+      "id": "website-QnJhbmRlbmJ1cmct",
+      "sourceType": "website",
+      "source": "Leitstelle Lausitz",
+      "start": null,
+      "end": null,
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
+      "startTime": null,
+      "endTime": null,
+      "active": true,
+      "status": "active",
+      "category": "Information",
+      "title": "Brandenburg-Alarm: Neue Funktionen ab dem 14. Oktober 2026",
+      "date": "2026-10-11",
+      "summary": "Am 14. Oktober 2026 wird ein Update der App Brandenburg-Alarm ausgerollt. Die Verteilung erfolgt automatisch über den App Store bzw. Google Play; ein Eingreifen der Nutzerinnen und Nutzer ist nicht erforderlich. Mit dem Update werden drei neue Funktionen freigeschaltet. Navigation und Anfahrtszeit über NUNAV Die App bindet künftig den Navigationsdienst NUNAV des Anbieters Graphmasters ein. … mehr »",
+      "url": "https://www.leitstelle-lausitz.de/brandenburg-alarm-neue-funktionen-ab-dem-14-oktober-2026/",
+      "categories": [],
+      "tags": []
     },
     {
       "id": "newsletter-85",
@@ -221,26 +286,6 @@
       "date": "2026-02-20",
       "summary": "Die Häufung von Extremwetterereignissen stellt Rettungsdienste und ihre Leitstellen vor neue Herausforderungen. Wie Künstliche Intelligenz, datenbasierte Prognosen und simulationsgestützte Planung Leitstellen dabei unterstützen können, Notfälle auch unter Extremwetterbedingungen sicher und effizient zu bewältigen, wurde in einem vom Bundesministerium für Verkehr (BMV) über drei Jahre geförderten Forschungsprojekt in der Modellregion Lausitz untersucht. Die Ergebnisse des Forschungsprojekts … meh",
       "url": "https://www.leitstelle-lausitz.de/handlungsempfehlungen-fuer-resiliente-leitstellenstrukturen/",
-      "categories": [],
-      "tags": []
-    },
-    {
-      "id": "website-TGViZW4gcmV0dGVu",
-      "sourceType": "website",
-      "source": "Leitstelle Lausitz",
-      "start": null,
-      "end": null,
-      "startDate": null,
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "active": true,
-      "status": "active",
-      "category": "Information",
-      "title": "Leben retten mit der KatRetter-App",
-      "date": "2026-02-11",
-      "summary": "Zum Europäischen Tag des Notrufs rufen MUL – CT, Stadt Cottbus/Chóśebuz und Modellregion Gesundheit Lausitz zur aktiven Mitwirkung auf – jeder kann im Notfall helfen Bei der Rettung von Menschen zählt oft jede Minute. In vielen Notsituationen oder Krisenlagen können Freiwillige mit ihren unterschiedlichen Kenntnissen und Fähigkeiten mithelfen. Zum Europäischen Tag des Notrufs am 11.2. … mehr »",
-      "url": "https://www.leitstelle-lausitz.de/leben-retten-mit-der-katretter-app/",
       "categories": [],
       "tags": []
     },
