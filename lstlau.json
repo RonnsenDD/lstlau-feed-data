@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-13T16:05:06.393Z",
+  "generated": "2026-10-13T16:11:19.770Z",
   "source": "Leitstelle Lausitz",
-  "parserVersion": "1.3.0",
+  "parserVersion": "1.2.0",
   "itemCount": 13,
   "items": [
     {
@@ -20,7 +20,7 @@
       "category": "Störung",
       "title": "Netzwerk 112 - Newsletter 3/26",
       "date": "2026-10-14",
-      "summary": "Newsletter der kommunalen Arbeitsgemeinschaft der Leitstellen im Land Brandenburg BOSpad: neue Geräte abrufen oder vorhandene iPads umwandeln Das BOSpad bietet Einsatz- und Führungskräften ohne großen administrativen Aufwand Zugang zu praxisnahen, vernetzten Anwendungen. Feuerwehren und Katastrophenschutz können damit auch ohne eigene IT-Abteilung einsatztaktisch relevante Daten nutzen und landesweit über die eigenen Organisationsgrenzen hinaus mit anderen Einheiten und allen Leitstellen medienbruchfrei digital kommunizieren.",
+      "summary": "Das BOSpad bietet Einsatz- und Führungskräften ohne großen administrativen Aufwand Zugang zu praxisnahen, vernetzten Anwendungen. Feuerwehren und Katastrophenschutz können damit auch ohne eigene IT-Abteilung einsatztaktisch relevante Daten nutzen und landesweit über die eigenen Organisationsgrenzen hinaus mit anderen Einheiten und allen Leitstellen medienbruchfrei digital kommunizieren. Ergänzt wird die standardisierte Hardware durch den „Informationsraum BOS Land Brandenburg\" – eine zentrale IT-Infrastruktur mit Führungsmitteln wie CommandX, Messenger, Groupware, Cloudspeicher und BOS-GDI. Diese bundesweit bislang einmalige Lösung wurde 2026 mit dem Innovationspreis des Fachverbandes der Le",
       "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=87",
       "links": [
         {
@@ -28,15 +28,15 @@
           "url": "https://www.leitstelle-lausitz.de/"
         },
         {
-          "text": "Bospad Neue Gerate Abrufen Oder Vorhandene Ipads Umwandeln",
+          "text": "",
           "url": "https://wiki.boscloud.lvnbb.de/bospad-neue-gerate-abrufen-oder-vorhandene-ipads-umwandeln/"
         },
         {
-          "text": "Atemschutzuberwachung Digital Fms Atemschutz Bos Prognose Statt Der Klassischen Stoppuhr",
+          "text": "",
           "url": "https://wiki.boscloud.lvnbb.de/atemschutzuberwachung-digital-fms-atemschutz-bos-prognose-statt-der-klassischen-stoppuhr/"
         },
         {
-          "text": "Brandenburg Alarm Neue Funktionen Ab Dem 14 Oktober 2026",
+          "text": "",
           "url": "https://www.leitstelle-lausitz.de/brandenburg-alarm-neue-funktionen-ab-dem-14-oktober-2026/"
         },
         {
@@ -44,7 +44,7 @@
           "url": "https://www.graphmasters.net/de"
         },
         {
-          "text": "Commandx Update 26 6",
+          "text": "",
           "url": "https://wiki.boscloud.lvnbb.de/commandx-update-26-6/"
         }
       ]
@@ -65,11 +65,11 @@
       "category": "Wartung",
       "title": "Wartungsarbeiten BB-Alarm/3PI - 14.10.2026 - 9:00 bis 15 Uhr",
       "date": "2026-10-14",
-      "summary": "Geplante Wartungsarbeiten Sehr geehrte Damen und Herren, am Mittwoch, den 14. Oktober 2026, finden in der Zeit von 9:00 Uhr bis 15:00 Uhr Wartungsarbeiten innerhalb unserer BOScloud-Systeme statt. Während dieser Zeit kann es zu kurzen Unterbrechungen bei Brandenburg-Alarm (DE-Alarm App und Redaktionssystem) und bei der Datenübertragung an die Drittanbieterschnittstelle (\"3PI\", inkl. der angeschlossenen Systeme sowie dem Wachalarm) kommen. Bei Rückfragen steht Ihnen unser Support-Team gerne zur Verfügung. Wir danken für Ihr Verständnis.",
+      "summary": "Sehr geehrte Damen und Herren, am Mittwoch, den 14. Oktober 2026, finden in der Zeit von 9:00 Uhr bis 15:00 Uhr Wartungsarbeiten innerhalb unserer BOScloud-Systeme statt. Während dieser Zeit kann es zu kurzen Unterbrechungen bei Brandenburg-Alarm (DE-Alarm App und Redaktionssystem) und bei der Datenübertragung an die Drittanbieterschnittstelle (\"3PI\", inkl. der angeschlossenen Systeme sowie dem Wachalarm) kommen. Bei Rückfragen steht Ihnen unser Support-Team gerne zur Verfügung. Wir danken für Ihr Verständnis. Mit freundlichen Grüßen Im Auftrag Geschäftsstelle des technischen Leitstellenverbunds Netzwerk112-Brandenburg",
       "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=88",
       "links": [
         {
-          "text": "leitstelle-lausitz.de",
+          "text": "",
           "url": "https://www.leitstelle-lausitz.de/"
         }
       ]
@@ -90,11 +90,11 @@
       "category": "Wartung",
       "title": "Wartungsarbeiten BOS-Messenger, Cloud-Speicher & Keycloak 12.10.2026, 13 Uhr bis 15 Uhr",
       "date": "2026-10-12",
-      "summary": "Geschäftsstelle des Leitstellenverbunds Netzwerk 112 - Brandenburg Newsletter der kommunalen Arbeitsgemeinschaft der Leitstellen im Land Brandenburg Wartungsarbeiten BOS-Messenger, Cloud-Speicher & Keycloak 12.10.2026, 13 Uhr bis 15 Uhr Am 12.10.2026 finden von 13 Uhr bis 15 Uhr Wartungsarbeiten am BOS-Messenger, Cloud-Speicher und an Keycloak statt. Während dieser Zeit kann es zu kurzen Ausfällen der einzelnen Anwendungen kommen. Im Auftrag der Integrierten Regionalleitstellen im Land Brandenburg Stadtverwaltung Cottbus - Fachbereich Feuerwehr - Integrierte Regionalleitstelle Lausitz, Dresdener Straße 46, 03050 Cottbus © 2025 Leitstelle Lausitz",
+      "summary": "Am 12.10.2026 finden von 13 Uhr bis 15 Uhr Wartungsarbeiten am BOS-Messenger, Cloud-Speicher und an Keycloak statt. Während dieser Zeit kann es zu kurzen Ausfällen der einzelnen Anwendungen kommen.",
       "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=86",
       "links": [
         {
-          "text": "leitstelle-lausitz.de",
+          "text": "",
           "url": "https://www.leitstelle-lausitz.de/"
         }
       ]
@@ -135,11 +135,11 @@
       "category": "Wartung",
       "title": "Wartung 28.09.2026 Cevas Webview",
       "date": "2026-09-28",
-      "summary": "Integrierte Regionalleitstelle Lausitz Wartung 28.09.2026 Sehr geehrte Damen und Herren, am 28.09.2026 finden in der Zeit von 10:30 Uhr bis 12:00 Uhr Wartungsarbeiten am Cevas- und Webview-System der Leitstelle Lausitz statt. Während dieses Zeitraums stehen die Systeme nicht zur Verfügung und können nicht genutzt werden. Wir bitten um Ihr Verständnis. Mit freundlichen Grüßen Wartung 28.09.2026 Sehr geehrte Damen und Herren, am 28.09.2026 finden in der Zeit von 10:30 Uhr bis 12:00 Uhr Wartungsarbeiten am Cevas- und Webview-System der Leitstelle Lausitz statt. Während dieses Zeitraums stehen die Systeme nicht zur Verfügung und können nicht genutzt werden. Wir bitten um Ihr Verständnis.",
+      "summary": "Sehr geehrte Damen und Herren, am 28.09.2026 finden in der Zeit von 10:30 Uhr bis 12:00 Uhr Wartungsarbeiten am Cevas- und Webview-System der Leitstelle Lausitz statt. Während dieses Zeitraums stehen die Systeme nicht zur Verfügung und können nicht genutzt werden. Wir bitten um Ihr Verständnis. Mit freundlichen Grüßen",
       "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=85",
       "links": [
         {
-          "text": "leitstelle-lausitz.de",
+          "text": "",
           "url": "https://www.leitstelle-lausitz.de/"
         }
       ]
@@ -160,11 +160,11 @@
       "category": "Wartung",
       "title": "Wartungsarbeiten CommandX 02.09.2026, 10 Uhr bis 12 Uhr",
       "date": "2026-09-02",
-      "summary": "Geschäftsstelle des Leitstellenverbunds Netzwerk 112 - Brandenburg Newsletter der kommunalen Arbeitsgemeinschaft der Leitstellen im Land Brandenburg Wartungsarbeiten CommandX 02.09.2026, 10 Uhr bis 12 Uhr Am Mittwoch, dem 02.09.2026, finden von 10 Uhr bis 12 Uhr reguläre Wartungsarbeiten am Schulungs- und Produktivsystem von CommandX statt. Während dieser Zeit kann es zu Ausfällen der einzelnen Anwendungen kommen. Im Auftrag der Integrierten Regionalleitstellen im Land Brandenburg Stadtverwaltung Cottbus - Fachbereich Feuerwehr - Integrierte Regionalleitstelle Lausitz, Dresdener Straße 46, 03050 Cottbus © 2025 Leitstelle Lausitz",
+      "summary": "Am Mittwoch, dem 02.09.2026, finden von 10 Uhr bis 12 Uhr reguläre Wartungsarbeiten am Schulungs- und Produktivsystem von CommandX statt. Während dieser Zeit kann es zu Ausfällen der einzelnen Anwendungen kommen.",
       "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=84",
       "links": [
         {
-          "text": "leitstelle-lausitz.de",
+          "text": "",
           "url": "https://www.leitstelle-lausitz.de/"
         }
       ]
@@ -284,7 +284,7 @@
       "category": "Information",
       "title": "Handlungsempfehlungen für resiliente Leitstellenstrukturen",
       "date": "2026-02-20",
-      "summary": "Die Häufung von Extremwetterereignissen stellt Rettungsdienste und ihre Leitstellen vor neue Herausforderungen. Wie Künstliche Intelligenz, datenbasierte Prognosen und simulationsgestützte Planung Leitstellen dabei unterstützen können, Notfälle auch unter Extremwetterbedingungen sicher und effizient zu bewältigen, wurde in einem vom Bundesministerium für Verkehr (BMV) über drei Jahre geförderten Forschungsprojekt in der Modellregion Lausitz untersucht.",
+      "summary": "Die Häufung von Extremwetterereignissen stellt Rettungsdienste und ihre Leitstellen vor neue Herausforderungen. Wie Künstliche Intelligenz, datenbasierte Prognosen und simulationsgestützte Planung Leitstellen dabei unterstützen können, Notfälle auch unter Extremwetterbedingungen sicher und effizient zu bewältigen, wurde in einem vom Bundesministerium für Verkehr (BMV) über drei Jahre geförderten Forschungsprojekt in der Modellregion Lausitz untersucht. Die Ergebnisse des Forschungsprojekts … meh",
       "url": "https://www.leitstelle-lausitz.de/handlungsempfehlungen-fuer-resiliente-leitstellenstrukturen/",
       "categories": [],
       "tags": []
@@ -305,11 +305,11 @@
       "category": "Termin",
       "title": "Online-Seminarangebote der Integrierten Regionalleitstelle im Jahr 2025",
       "date": "2025-11-04",
-      "summary": "Kursangebot 2025 der Integrierten Regionalleitstelle Lausitz Online-Seminarangebote der Integrierten Regionalleitstelle im Jahr 2025 Werte Leserinnen und Leser unseres Newsletters, da das Interesse an Schulungen zu unseren digitalen Angeboten weiterhin sehr groß ist, bietet die Leitstelle Lausitz auch in diesem Herbst eine Vielzahl von Seminaren (meist online) an. Zielgruppe sind vor allem Mitglieder von freiwilligen Feuerwehren in den Landkreisen Elbe-Elster, Dahme-Spreewald, Oberspreewald-Lausitz, Spree-Neiße und der kreisfreien Boom-Town Cottbus, welche mit Themen der Digitalisierung betraut sind, aber auch andere Interessierte könnten gern teilnehmen.",
+      "summary": "Werte Leserinnen und Leser unseres Newsletters, da das Interesse an Schulungen zu unseren digitalen Angeboten weiterhin sehr groß ist, bietet die Leitstelle Lausitz auch in diesem Herbst eine Vielzahl von Seminaren (meist online) an. Zielgruppe sind vor allem Mitglieder von freiwilligen Feuerwehren in den Landkreisen Elbe-Elster, Dahme-Spreewald, Oberspreewald-Lausitz, Spree-Neiße und der kreisfreien Boom-Town Cottbus, welche mit Themen der Digitalisierung betraut sind, aber auch andere Interessierte könnten gern teilnehmen. Inhalt: Dienste und Organisation des Informationsraum BOS Land Brandenburg Einstieg und Überblick in die einzelnen Module der Führungs- und Unterstützungssoftware Comman",
       "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=46",
       "links": [
         {
-          "text": "leitstelle-lausitz.de",
+          "text": "",
           "url": "https://www.leitstelle-lausitz.de/"
         }
       ]
