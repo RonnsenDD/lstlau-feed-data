@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-13T16:33:41.430Z",
+  "generated": "2026-10-13T16:34:23.918Z",
   "source": "Leitstelle Lausitz",
-  "parserVersion": "1.2.0",
+  "parserVersion": "1.4.0",
   "itemCount": 13,
   "items": [
     {
@@ -20,7 +20,7 @@
       "category": "Störung",
       "title": "Netzwerk 112 - Newsletter 3/26",
       "date": "2026-10-14",
-      "summary": "Das BOSpad bietet Einsatz- und Führungskräften ohne großen administrativen Aufwand Zugang zu praxisnahen, vernetzten Anwendungen. Feuerwehren und Katastrophenschutz können damit auch ohne eigene IT-Abteilung einsatztaktisch relevante Daten nutzen und landesweit über die eigenen Organisationsgrenzen hinaus mit anderen Einheiten und allen Leitstellen medienbruchfrei digital kommunizieren. Ergänzt wird die standardisierte Hardware durch den „Informationsraum BOS Land Brandenburg\" – eine zentrale IT-Infrastruktur mit Führungsmitteln wie CommandX, Messenger, Groupware, Cloudspeicher und BOS-GDI. Diese bundesweit bislang einmalige Lösung wurde 2026 mit dem Innovationspreis des Fachverbandes der Le",
+      "summary": "Themen im Newsletter: BOSpad: Geräte abrufen oder vorhandene iPads umwandeln; Digitale Atemschutzüberwachung: FMS-Atemschutz und BOS-Prognose; Brandenburg-Alarm: Neue Funktionen ab 14. Oktober 2026; Graphmasters; CommandX – Update 26.6.",
       "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=87",
       "links": [
         {
@@ -28,15 +28,15 @@
           "url": "https://www.leitstelle-lausitz.de/"
         },
         {
-          "text": "",
+          "text": "BOSpad: Geräte abrufen oder vorhandene iPads umwandeln",
           "url": "https://wiki.boscloud.lvnbb.de/bospad-neue-gerate-abrufen-oder-vorhandene-ipads-umwandeln/"
         },
         {
-          "text": "",
+          "text": "Digitale Atemschutzüberwachung: FMS-Atemschutz und BOS-Prognose",
           "url": "https://wiki.boscloud.lvnbb.de/atemschutzuberwachung-digital-fms-atemschutz-bos-prognose-statt-der-klassischen-stoppuhr/"
         },
         {
-          "text": "",
+          "text": "Brandenburg-Alarm: Neue Funktionen ab 14. Oktober 2026",
           "url": "https://www.leitstelle-lausitz.de/brandenburg-alarm-neue-funktionen-ab-dem-14-oktober-2026/"
         },
         {
@@ -44,7 +44,7 @@
           "url": "https://www.graphmasters.net/de"
         },
         {
-          "text": "",
+          "text": "CommandX – Update 26.6",
           "url": "https://wiki.boscloud.lvnbb.de/commandx-update-26-6/"
         }
       ]
@@ -65,11 +65,11 @@
       "category": "Wartung",
       "title": "Wartungsarbeiten BB-Alarm/3PI - 14.10.2026 - 9:00 bis 15 Uhr",
       "date": "2026-10-14",
-      "summary": "Sehr geehrte Damen und Herren, am Mittwoch, den 14. Oktober 2026, finden in der Zeit von 9:00 Uhr bis 15:00 Uhr Wartungsarbeiten innerhalb unserer BOScloud-Systeme statt. Während dieser Zeit kann es zu kurzen Unterbrechungen bei Brandenburg-Alarm (DE-Alarm App und Redaktionssystem) und bei der Datenübertragung an die Drittanbieterschnittstelle (\"3PI\", inkl. der angeschlossenen Systeme sowie dem Wachalarm) kommen. Bei Rückfragen steht Ihnen unser Support-Team gerne zur Verfügung. Wir danken für Ihr Verständnis. Mit freundlichen Grüßen Im Auftrag Geschäftsstelle des technischen Leitstellenverbunds Netzwerk112-Brandenburg",
+      "summary": "Wartung am Mittwoch, den 14. Oktober 2026, 9:00 Uhr bis 15:00 Uhr. Betroffen: Brandenburg-Alarm (App und Redaktionssystem), 3PI-Datenübertragung und angeschlossene Systeme, Wachalarm. Es kann zu kurzen Unterbrechungen kommen.",
       "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=88",
       "links": [
         {
-          "text": "",
+          "text": "leitstelle-lausitz.de",
           "url": "https://www.leitstelle-lausitz.de/"
         }
       ]
@@ -90,11 +90,11 @@
       "category": "Wartung",
       "title": "Wartungsarbeiten BOS-Messenger, Cloud-Speicher & Keycloak 12.10.2026, 13 Uhr bis 15 Uhr",
       "date": "2026-10-12",
-      "summary": "Am 12.10.2026 finden von 13 Uhr bis 15 Uhr Wartungsarbeiten am BOS-Messenger, Cloud-Speicher und an Keycloak statt. Während dieser Zeit kann es zu kurzen Ausfällen der einzelnen Anwendungen kommen.",
+      "summary": "Geschäftsstelle des Leitstellenverbunds Netzwerk 112 - Brandenburg Newsletter der kommunalen Arbeitsgemeinschaft der Leitstellen im Land Brandenburg Wartungsarbeiten BOS-Messenger, Cloud-Speicher & Keycloak 12.10.2026, 13 Uhr bis 15 Uhr Am 12.10.2026 finden von 13 Uhr bis 15 Uhr Wartungsarbeiten am BOS-Messenger, Cloud-Speicher und an Keycloak statt.",
       "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=86",
       "links": [
         {
-          "text": "",
+          "text": "leitstelle-lausitz.de",
           "url": "https://www.leitstelle-lausitz.de/"
         }
       ]
@@ -114,10 +114,11 @@
       "category": "Information",
       "title": "Brandenburg-Alarm: Neue Funktionen ab dem 14. Oktober 2026",
       "date": "2026-10-11",
-      "summary": "Am 14. Oktober 2026 wird ein Update der App Brandenburg-Alarm ausgerollt. Die Verteilung erfolgt automatisch über den App Store bzw. Google Play; ein Eingreifen der Nutzerinnen und Nutzer ist nicht erforderlich. Mit dem Update werden drei neue Funktionen freigeschaltet. Navigation und Anfahrtszeit über NUNAV Die App bindet künftig den Navigationsdienst NUNAV des Anbieters Graphmasters ein. … mehr »",
+      "summary": "Am 14. Oktober 2026 wird ein Update der App Brandenburg-Alarm ausgerollt. Neue Funktionen: Navigation und Anfahrtszeit über NUNAV; Alarmierung durch Organisationen; Schnittstelle zum BOS-Messenger.",
       "url": "https://www.leitstelle-lausitz.de/brandenburg-alarm-neue-funktionen-ab-dem-14-oktober-2026/",
       "categories": [],
-      "tags": []
+      "tags": [],
+      "summarySource": "Volltext des Beitrags"
     },
     {
       "id": "newsletter-85",
@@ -135,11 +136,11 @@
       "category": "Wartung",
       "title": "Wartung 28.09.2026 Cevas Webview",
       "date": "2026-09-28",
-      "summary": "Sehr geehrte Damen und Herren, am 28.09.2026 finden in der Zeit von 10:30 Uhr bis 12:00 Uhr Wartungsarbeiten am Cevas- und Webview-System der Leitstelle Lausitz statt. Während dieses Zeitraums stehen die Systeme nicht zur Verfügung und können nicht genutzt werden. Wir bitten um Ihr Verständnis. Mit freundlichen Grüßen",
+      "summary": "Integrierte Regionalleitstelle Lausitz Wartung 28.09.2026 Sehr geehrte Damen und Herren, am 28.09.2026 finden in der Zeit von 10:30 Uhr bis 12:00 Uhr Wartungsarbeiten am Cevas- und Webview-System der Leitstelle Lausitz statt. Während dieses Zeitraums stehen die Systeme nicht zur Verfügung und können nicht genutzt werden. Wir bitten um Ihr Verständnis.",
       "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=85",
       "links": [
         {
-          "text": "",
+          "text": "leitstelle-lausitz.de",
           "url": "https://www.leitstelle-lausitz.de/"
         }
       ]
@@ -160,11 +161,11 @@
       "category": "Wartung",
       "title": "Wartungsarbeiten CommandX 02.09.2026, 10 Uhr bis 12 Uhr",
       "date": "2026-09-02",
-      "summary": "Am Mittwoch, dem 02.09.2026, finden von 10 Uhr bis 12 Uhr reguläre Wartungsarbeiten am Schulungs- und Produktivsystem von CommandX statt. Während dieser Zeit kann es zu Ausfällen der einzelnen Anwendungen kommen.",
+      "summary": "Geschäftsstelle des Leitstellenverbunds Netzwerk 112 - Brandenburg Newsletter der kommunalen Arbeitsgemeinschaft der Leitstellen im Land Brandenburg Wartungsarbeiten CommandX 02.09.2026, 10 Uhr bis 12 Uhr Am Mittwoch, dem 02.09.2026, finden von 10 Uhr bis 12 Uhr reguläre Wartungsarbeiten am Schulungs- und Produktivsystem von CommandX statt.",
       "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=84",
       "links": [
         {
-          "text": "",
+          "text": "leitstelle-lausitz.de",
           "url": "https://www.leitstelle-lausitz.de/"
         }
       ]
@@ -184,10 +185,11 @@
       "category": "Störung",
       "title": "Störungsmeldung: Alarmierung über KatRetter und DE-Alarm auf Android 17 lautlos",
       "date": "2026-08-27",
-      "summary": "Auf Android-Geräten mit der Betriebssystemversion Android 17 werden Alarmierungen der Apps KatRetter und DE-Alarm derzeit lautlos zugestellt. Die Alarmierung erreicht Ihr Gerät zwar, ein akustisches Signal ertönt jedoch nicht. Wer ist betroffen? Alle Nutzenden, deren Gerät bereits auf Android 17 aktualisiert wurde. Sie können das prüfen unter Einstellungen → Über das Telefon → Android-Version. Geräte … mehr »",
+      "summary": "Auf Android-Geräten mit der Betriebssystemversion Android 17 werden Alarmierungen der Apps KatRetter und DE-Alarm derzeit lautlos zugestellt. Die Alarmierung erreicht Ihr Gerät zwar, ein akustisches Signal ertönt jedoch nicht. Wer ist betroffen? Alle Nutzenden, deren Gerät bereits auf Android 17 aktualisiert wurde. Sie können das prüfen unter Einstellungen → Über das Telefon → Android-Version. Geräte mit älteren Android-Versionen und iPhones sind nicht betroffen.",
       "url": "https://www.leitstelle-lausitz.de/stoerungsmeldung-alarmierung-ueber-katretter-und-de-alarm-auf-android-17-lautlos/",
       "categories": [],
-      "tags": []
+      "tags": [],
+      "summarySource": "Volltext des Beitrags"
     },
     {
       "id": "website-QWt0dWVsbGUgU3TD",
@@ -204,10 +206,11 @@
       "category": "Störung",
       "title": "Aktuelle Störung bei den Einsatz-Vorinformationen",
       "date": "2026-05-18",
-      "summary": "Die Einsatz-Vorinformationen der Leitstelle Lausitz können derzeit nicht über feuerwehr.social abgerufen werden. Grund dafür ist, dass die Plattform feuerwehr.social aktuell nicht im Internet erreichbar ist. Deshalb kann die Leitstelle Lausitz dort zurzeit keine EVI veröffentlichen. Wir haben bereits versucht, den Betreiber der Plattform zu erreichen. Bisher leider ohne Erfolg. Daher kann dieser Dienst momentan nicht … mehr »",
+      "summary": "Die Einsatz-Vorinformationen der Leitstelle Lausitz können derzeit nicht über feuerwehr.social abgerufen werden. Grund dafür ist, dass die Plattform feuerwehr.social aktuell nicht im Internet erreichbar ist. Deshalb kann die Leitstelle Lausitz dort zurzeit keine EVI veröffentlichen. Wir haben bereits versucht, den Betreiber der Plattform zu erreichen. Bisher leider ohne Erfolg. Daher kann dieser Dienst momentan nicht zur Verfügung gestellt werden.",
       "url": "https://www.leitstelle-lausitz.de/aktuelle-stoerung-bei-den-einsatz-vorinformationen/",
       "categories": [],
-      "tags": []
+      "tags": [],
+      "summarySource": "Volltext des Beitrags"
     },
     {
       "id": "website-V2VubiBpbSBOb3Rm",
@@ -224,10 +227,11 @@
       "category": "Information",
       "title": "Wenn im Notfall niemand mehr fragen kann",
       "date": "2026-05-18",
-      "summary": "Nach einem schweren Fahrradsturz ist eine Patientin kaum noch ansprechbar. Für den Rettungsdienst stellen sich sofort entscheidende Fragen: Gibt es wichtige Medikamente, Vorerkrankungen, Notfallkontakte oder sogar eine Patientenverfügung? Digitale Notfalllösungen wollen diese Lücke schließen – aber auf sehr unterschiedliche Weise. Aktuell gibt es grob vier Gruppen von technischen Lösungen: Sperrbildschirm-Lösungen auf iPhone und Android, Wallet-/QR-Lösungen … mehr »",
+      "summary": "Nach einem schweren Fahrradsturz ist eine Patientin kaum noch ansprechbar. Für den Rettungsdienst stellen sich sofort entscheidende Fragen: Gibt es wichtige Medikamente, Vorerkrankungen, Notfallkontakte oder sogar eine Patientenverfügung? Digitale Notfalllösungen wollen diese Lücke schließen – aber auf sehr unterschiedliche Weise.",
       "url": "https://www.leitstelle-lausitz.de/wenn-im-notfall-niemand-mehr-fragen-kann/",
       "categories": [],
-      "tags": []
+      "tags": [],
+      "summarySource": "Volltext des Beitrags"
     },
     {
       "id": "website-QmVmZWhsc3N0ZWxs",
@@ -244,10 +248,11 @@
       "category": "Technische Information",
       "title": "Befehlsstellenhandbuch aktualisiert",
       "date": "2026-05-18",
-      "summary": "Mit der zunehmenden praktischen Nutzung digitaler Stabslagesoftware wird die digitale Führungsarbeit für viele Feuerwehren bereits ab der Alarmierung der ersten Einsatzkräfte zum Standard. Gleichzeitig besteht inzwischen die Möglichkeit, aktuelle Informationen zur Befehlsstelle direkt in digitalen Anwendungen zu pflegen und unmittelbar im Einsatzleitsystem zu hinterlegen. Vor diesem Hintergrund wurde das Befehlsstellenhandbuch für die Region Lausitz im … mehr »",
+      "summary": "Mit der zunehmenden praktischen Nutzung digitaler Stabslagesoftware wird die digitale Führungsarbeit für viele Feuerwehren bereits ab der Alarmierung der ersten Einsatzkräfte zum Standard. Gleichzeitig besteht inzwischen die Möglichkeit, aktuelle Informationen zur Befehlsstelle direkt in digitalen Anwendungen zu pflegen und unmittelbar im Einsatzleitsystem zu hinterlegen.",
       "url": "https://www.leitstelle-lausitz.de/befehlsstellenhandbuch-aktualisiert/",
       "categories": [],
-      "tags": []
+      "tags": [],
+      "summarySource": "Volltext des Beitrags"
     },
     {
       "id": "website-RGlnaXRhbGlzaWVy",
@@ -264,10 +269,11 @@
       "category": "Information",
       "title": "Digitalisierung vom Krankentransport bis zur Intensivverlegung",
       "date": "2026-05-18",
-      "summary": "Mit der Freischaltung der Buchung von Intensivverlegungen im Patiententransportportal (PTP) wurde im April 2026 ein entscheidender Schritt in die digitale Zukunft der Patientenversorgung in der Lausitz gemacht. Bisher waren aufwendige manuelle Abläufe die Regel, wie die telefonische Absprache oder die papierbasierte Anmeldung. Diese werden ab sofort schrittweise durch eine digitale Lösung ersetzt. Dies spart Zeit, … mehr »",
+      "summary": "|Franz Kroll Mit der Freischaltung der Buchung von Intensivverlegungen im Patiententransportportal (PTP) wurde im April 2026 ein entscheidender Schritt in die digitale Zukunft der Patientenversorgung in der Lausitz gemacht. Bisher waren aufwendige manuelle Abläufe die Regel, wie die telefonische Absprache oder die papierbasierte Anmeldung. Diese werden ab sofort schrittweise durch eine digitale Lösung ersetzt.",
       "url": "https://www.leitstelle-lausitz.de/digitalisierung-vom-krankentransport-bis-zur-intensivverlegung/",
       "categories": [],
-      "tags": []
+      "tags": [],
+      "summarySource": "Volltext des Beitrags"
     },
     {
       "id": "website-SGFuZGx1bmdzZW1w",
@@ -284,10 +290,11 @@
       "category": "Information",
       "title": "Handlungsempfehlungen für resiliente Leitstellenstrukturen",
       "date": "2026-02-20",
-      "summary": "Die Häufung von Extremwetterereignissen stellt Rettungsdienste und ihre Leitstellen vor neue Herausforderungen. Wie Künstliche Intelligenz, datenbasierte Prognosen und simulationsgestützte Planung Leitstellen dabei unterstützen können, Notfälle auch unter Extremwetterbedingungen sicher und effizient zu bewältigen, wurde in einem vom Bundesministerium für Verkehr (BMV) über drei Jahre geförderten Forschungsprojekt in der Modellregion Lausitz untersucht. Die Ergebnisse des Forschungsprojekts … meh",
+      "summary": "Die Häufung von Extremwetterereignissen stellt Rettungsdienste und ihre Leitstellen vor neue Herausforderungen. Wie Künstliche Intelligenz, datenbasierte Prognosen und simulationsgestützte Planung Leitstellen dabei unterstützen können, Notfälle auch unter Extremwetterbedingungen sicher und effizient zu bewältigen, wurde in einem vom Bundesministerium für Verkehr (BMV) über drei Jahre geförderten Forschungsprojekt in der Modellregion Lausitz untersucht.",
       "url": "https://www.leitstelle-lausitz.de/handlungsempfehlungen-fuer-resiliente-leitstellenstrukturen/",
       "categories": [],
-      "tags": []
+      "tags": [],
+      "summarySource": "Volltext des Beitrags"
     },
     {
       "id": "newsletter-46",
@@ -305,11 +312,11 @@
       "category": "Termin",
       "title": "Online-Seminarangebote der Integrierten Regionalleitstelle im Jahr 2025",
       "date": "2025-11-04",
-      "summary": "Werte Leserinnen und Leser unseres Newsletters, da das Interesse an Schulungen zu unseren digitalen Angeboten weiterhin sehr groß ist, bietet die Leitstelle Lausitz auch in diesem Herbst eine Vielzahl von Seminaren (meist online) an. Zielgruppe sind vor allem Mitglieder von freiwilligen Feuerwehren in den Landkreisen Elbe-Elster, Dahme-Spreewald, Oberspreewald-Lausitz, Spree-Neiße und der kreisfreien Boom-Town Cottbus, welche mit Themen der Digitalisierung betraut sind, aber auch andere Interessierte könnten gern teilnehmen. Inhalt: Dienste und Organisation des Informationsraum BOS Land Brandenburg Einstieg und Überblick in die einzelnen Module der Führungs- und Unterstützungssoftware Comman",
+      "summary": "Kursangebot 2025 der Integrierten Regionalleitstelle Lausitz Online-Seminarangebote der Integrierten Regionalleitstelle im Jahr 2025 Werte Leserinnen und Leser unseres Newsletters, da das Interesse an Schulungen zu unseren digitalen Angeboten weiterhin sehr groß ist, bietet die Leitstelle Lausitz auch in diesem Herbst eine Vielzahl von Seminaren (meist …",
       "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=46",
       "links": [
         {
-          "text": "",
+          "text": "leitstelle-lausitz.de",
           "url": "https://www.leitstelle-lausitz.de/"
         }
       ]
