@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T12:51:08.593Z",
+  "generated": "2026-10-14T13:46:52.530Z",
   "source": "Leitstelle Lausitz",
   "parserVersion": "1.4.0",
   "itemCount": 13,
@@ -60,8 +60,8 @@
       "endDate": "2026-10-14",
       "startTime": "09:00",
       "endTime": "15:00",
-      "active": true,
-      "status": "active",
+      "active": false,
+      "status": "expired",
       "category": "Wartung",
       "title": "Wartungsarbeiten BB-Alarm/3PI - 14.10.2026 - 9:00 bis 15 Uhr",
       "date": "2026-10-14",
