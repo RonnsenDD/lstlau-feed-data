@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-21T07:38:07.287Z",
+  "generated": "2026-10-21T13:47:00.500Z",
   "source": "Leitstelle Lausitz",
   "parserVersion": "1.4.0",
-  "itemCount": 14,
+  "itemCount": 15,
   "items": [
     {
       "id": "newsletter-89",
@@ -74,6 +74,43 @@
       "categories": [],
       "tags": [],
       "summarySource": "Volltext des Beitrags"
+    },
+    {
+      "id": "newsletter-90",
+      "sourceType": "newsletter",
+      "source": "Leitstelle Lausitz Newsletter",
+      "newsletterId": 90,
+      "start": null,
+      "end": null,
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-20",
+      "startTime": null,
+      "endTime": null,
+      "active": true,
+      "status": "active",
+      "category": "Information",
+      "title": "Vorübergehende Abschaltung von cloud.lstbb.de",
+      "date": "2026-10-20",
+      "summary": "Newsletter der kommunalen Arbeitsgemeinschaft der Leitstellen im Land Brandenburg Vorübergehende Abschaltung von cloud.lstbb.de Am 20.10.2026 sind Details zu zwei kritischen Sicherheitslücken in der Skriptsprache PHP vorzeitig öffentlich geworden (CVE-2026-109618 und CVE-2026-109619).",
+      "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=90",
+      "links": [
+        {
+          "text": "Newsletter der kommunalen Arbeitsgemeinschaft der Leitstellen im Land Brandenburg",
+          "url": "https://www.leitstelle-lausitz.de/"
+        },
+        {
+          "text": "https://www.vincentschmalbach.com/cve-2026-109618-and-cve-2026-109619-what-you-should-do-now/",
+          "url": "https://www.vincentschmalbach.com/cve-2026-109618-and-cve-2026-109619-what-you-should-do-now/"
+        },
+        {
+          "text": "https://administrator.de/info/php-kritische-rce-luecken-cve-2026-109618-notfall-release-679311.html",
+          "url": "https://administrator.de/info/php-kritische-rce-luecken-cve-2026-109618-notfall-release-679311.html"
+        },
+        {
+          "text": "https://sansec.io/research/php2shell",
+          "url": "https://sansec.io/research/php2shell"
+        }
+      ]
     },
     {
       "id": "newsletter-87",
