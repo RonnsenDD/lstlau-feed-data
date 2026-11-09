@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T07:57:40.077Z",
+  "generated": "2026-11-09T18:47:26.095Z",
   "source": "Leitstelle Lausitz",
   "parserVersion": "1.4.0",
   "itemCount": 16,
@@ -32,6 +32,27 @@
           "url": "https://www.leitstelle-lausitz.de/celios-webclient-3-6-5-uebersichtlichere-karte-und-mehrere-tableaus-auf-einen-blick/"
         }
       ]
+    },
+    {
+      "id": "website-VXBkYXRlIHp1IFN0",
+      "sourceType": "website",
+      "source": "Leitstelle Lausitz",
+      "start": null,
+      "end": null,
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "endTime": null,
+      "active": true,
+      "status": "active",
+      "category": "Störung",
+      "title": "Update zu Störungsmeldung: Alarmierung über KatRetter und DE-Alarm auf Android 17 lautlos",
+      "date": "2026-11-09",
+      "summary": "Auf Android-Geräten mit der Betriebssystemversion Android 17 werden Alarmierungen der Apps KatRetter und DE-Alarm derzeit lautlos zugestellt. Die Alarmierung erreicht Ihr Gerät zwar, ein akustisches Signal ertönt jedoch nicht. Wer ist betroffen? Alle Nutzenden, deren Gerät bereits auf Android 17 aktualisiert wurde. Sie können das prüfen unter Einstellungen → Über das Telefon → Android-Version. Geräte mit älteren Android-Versionen und iPhones sind nicht betroffen.",
+      "url": "https://www.leitstelle-lausitz.de/stoerungsmeldung-alarmierung-ueber-katretter-und-de-alarm-auf-android-17-lautlos/",
+      "categories": [],
+      "tags": [],
+      "summarySource": "Volltext des Beitrags"
     },
     {
       "id": "newsletter-91",
@@ -302,27 +323,6 @@
           "url": "https://www.leitstelle-lausitz.de/"
         }
       ]
-    },
-    {
-      "id": "website-U3TDtnJ1bmdzbWVs",
-      "sourceType": "website",
-      "source": "Leitstelle Lausitz",
-      "start": null,
-      "end": null,
-      "startDate": null,
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "active": true,
-      "status": "active",
-      "category": "Störung",
-      "title": "Störungsmeldung: Alarmierung über KatRetter und DE-Alarm auf Android 17 lautlos",
-      "date": "2026-08-27",
-      "summary": "Auf Android-Geräten mit der Betriebssystemversion Android 17 werden Alarmierungen der Apps KatRetter und DE-Alarm derzeit lautlos zugestellt. Die Alarmierung erreicht Ihr Gerät zwar, ein akustisches Signal ertönt jedoch nicht. Wer ist betroffen? Alle Nutzenden, deren Gerät bereits auf Android 17 aktualisiert wurde. Sie können das prüfen unter Einstellungen → Über das Telefon → Android-Version. Geräte mit älteren Android-Versionen und iPhones sind nicht betroffen.",
-      "url": "https://www.leitstelle-lausitz.de/stoerungsmeldung-alarmierung-ueber-katretter-und-de-alarm-auf-android-17-lautlos/",
-      "categories": [],
-      "tags": [],
-      "summarySource": "Volltext des Beitrags"
     },
     {
       "id": "website-QWt0dWVsbGUgU3TD",
