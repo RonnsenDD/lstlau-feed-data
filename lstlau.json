@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-10T09:47:58.756Z",
+  "generated": "2026-11-10T17:49:03.012Z",
   "source": "Leitstelle Lausitz",
   "parserVersion": "1.4.0",
-  "itemCount": 16,
+  "itemCount": 17,
   "items": [
     {
       "id": "newsletter-89",
@@ -30,6 +30,31 @@
         {
           "text": "Celios Webclient 3 6 5 Uebersichtlichere Karte Und Mehrere Tableaus Auf Einen Blick",
           "url": "https://www.leitstelle-lausitz.de/celios-webclient-3-6-5-uebersichtlichere-karte-und-mehrere-tableaus-auf-einen-blick/"
+        }
+      ]
+    },
+    {
+      "id": "newsletter-92",
+      "sourceType": "newsletter",
+      "source": "Leitstelle Lausitz Newsletter",
+      "newsletterId": 92,
+      "start": "2026-11-11T09:00:00",
+      "end": "2026-11-11T12:00:00",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "active": true,
+      "status": "scheduled",
+      "category": "Störung",
+      "title": "kurzfristige Sicherheitsupdates BB-Alarm/3PI - 11.11.2026 - 9:00 bis 12 Uhr",
+      "date": "2026-11-11",
+      "summary": "BB-Alarm - Sicherheitsupdates und Wartungsarbeiten Sehr geehrte Damen und Herren, am Mittwoch, den 11. November 2026, finden in der Zeit von 9:00 Uhr bis 12:00 Uhr nochmals wichtige Wartungsarbeiten bei BB-Alarm statt. Unter anderem werden Fehler im Zusammenhang mit dem neuen \"Wehr-Alarm\" behoben.",
+      "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=92",
+      "links": [
+        {
+          "text": "leitstelle-lausitz.de",
+          "url": "https://www.leitstelle-lausitz.de/"
         }
       ]
     },
