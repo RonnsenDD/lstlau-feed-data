@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T06:14:54.479Z",
+  "generated": "2026-11-11T14:26:33.639Z",
   "source": "Leitstelle Lausitz",
   "parserVersion": "1.4.0",
   "itemCount": 17,
@@ -44,8 +44,8 @@
       "endDate": "2026-11-11",
       "startTime": "09:00",
       "endTime": "12:00",
-      "active": true,
-      "status": "scheduled",
+      "active": false,
+      "status": "expired",
       "category": "Störung",
       "title": "kurzfristige Sicherheitsupdates BB-Alarm/3PI - 11.11.2026 - 9:00 bis 12 Uhr",
       "date": "2026-11-11",
