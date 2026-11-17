@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-17T13:23:00.624Z",
+  "generated": "2026-11-17T22:21:49.634Z",
   "source": "Leitstelle Lausitz",
   "parserVersion": "1.4.0",
-  "itemCount": 18,
+  "itemCount": 19,
   "items": [
     {
       "id": "newsletter-89",
@@ -30,6 +30,35 @@
         {
           "text": "Celios Webclient 3 6 5 Uebersichtlichere Karte Und Mehrere Tableaus Auf Einen Blick",
           "url": "https://www.leitstelle-lausitz.de/celios-webclient-3-6-5-uebersichtlichere-karte-und-mehrere-tableaus-auf-einen-blick/"
+        }
+      ]
+    },
+    {
+      "id": "newsletter-94",
+      "sourceType": "newsletter",
+      "source": "Leitstelle Lausitz Newsletter",
+      "newsletterId": 94,
+      "start": null,
+      "end": null,
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
+      "startTime": null,
+      "endTime": null,
+      "active": true,
+      "status": "active",
+      "category": "Wartung",
+      "title": "Wartungsarbeiten WEBDATA Stammdatenportal am 19.11.2026 9-15 Uhr",
+      "date": "2026-11-19",
+      "summary": "Sehr geehrte Damen und Herren, am Donnerstag, 19.11.2026, von 09:00 bis 15:00 Uhr wird Cellios WebData gewartet. In diesem Zeitraum kann es zu Einschränkungen bis hin zur vollständigen Nichtverfügbarkeit kommen. Bitte berücksichtigen Sie dies bei Ihrer Planung.",
+      "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=94",
+      "links": [
+        {
+          "text": "leitstelle-lausitz.de",
+          "url": "https://www.leitstelle-lausitz.de/"
+        },
+        {
+          "text": "https://webdata.boscloud.lvnbb.de",
+          "url": "https://webdata.boscloud.lvnbb.de/"
         }
       ]
     },
