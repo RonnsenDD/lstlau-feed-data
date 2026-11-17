@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-17T03:51:54.988Z",
+  "generated": "2026-11-17T13:23:00.624Z",
   "source": "Leitstelle Lausitz",
   "parserVersion": "1.4.0",
-  "itemCount": 17,
+  "itemCount": 18,
   "items": [
     {
       "id": "newsletter-89",
@@ -30,6 +30,31 @@
         {
           "text": "Celios Webclient 3 6 5 Uebersichtlichere Karte Und Mehrere Tableaus Auf Einen Blick",
           "url": "https://www.leitstelle-lausitz.de/celios-webclient-3-6-5-uebersichtlichere-karte-und-mehrere-tableaus-auf-einen-blick/"
+        }
+      ]
+    },
+    {
+      "id": "newsletter-93",
+      "sourceType": "newsletter",
+      "source": "Leitstelle Lausitz Newsletter",
+      "newsletterId": 93,
+      "start": null,
+      "end": null,
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-17",
+      "startTime": null,
+      "endTime": null,
+      "active": true,
+      "status": "active",
+      "category": "Wartung",
+      "title": "Wartungsarbeiten CEVAS Feuerwehrbericht Lausitz 17.11.2026 9-15 Uhr",
+      "date": "2026-11-17",
+      "summary": "Ankündigung kurzfristige Wartungsarbeiten CEVAS Sehr geehrte Damen und Herren, heute, am Dienstag, 17.11.2026, von 09:00 bis 15:00 Uhr, wird CEVAS Feuerwehrbericht gewartet. Die Arbeiten haben bereits begonnen. In diesem Zeitraum kann es zu Einschränkungen bis hin zur vollständigen Nichtverfügbarkeit kommen.",
+      "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=93",
+      "links": [
+        {
+          "text": "leitstelle-lausitz.de",
+          "url": "https://www.leitstelle-lausitz.de/"
         }
       ]
     },
