@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-18T04:18:02.593Z",
+  "generated": "2026-11-18T13:56:39.200Z",
   "source": "Leitstelle Lausitz",
   "parserVersion": "1.4.0",
-  "itemCount": 19,
+  "itemCount": 20,
   "items": [
     {
       "id": "newsletter-89",
@@ -59,6 +59,31 @@
         {
           "text": "https://webdata.boscloud.lvnbb.de",
           "url": "https://webdata.boscloud.lvnbb.de/"
+        }
+      ]
+    },
+    {
+      "id": "newsletter-95",
+      "sourceType": "newsletter",
+      "source": "Leitstelle Lausitz Newsletter",
+      "newsletterId": 95,
+      "start": "2026-11-19T09:00:00",
+      "end": "2026-11-19T16:00:00",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
+      "startTime": "09:00",
+      "endTime": "16:00",
+      "active": true,
+      "status": "scheduled",
+      "category": "Wartung",
+      "title": "Wartungsarbeiten 19.11.2026, 09:00 Uhr bis 16:00 Uhr",
+      "date": "2026-11-19",
+      "summary": "Wartung am 09:00 Uhr bis 16:00 Uhr. Betroffen: Wachalarm. Es kann zu kurzen Unterbrechungen kommen.",
+      "url": "https://www.leitstelle-lausitz.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=361-a3fdbffc5a&id=95",
+      "links": [
+        {
+          "text": "leitstelle-lausitz.de",
+          "url": "https://www.leitstelle-lausitz.de/"
         }
       ]
     },
